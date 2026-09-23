@@ -1,0 +1,11 @@
+Snowboy KWS standalone adapter
+
+This distribution contains the Snowboy C++ interface, ARMv7 static library,
+and common.res resource from KITT.AI Snowboy 1.3.0. These files are distributed
+under the Apache License 2.0 in third_party/snowboy/LICENSE.
+
+This distribution contains an ARMv7 OpenBLAS 0.3.21 static library. OpenBLAS is
+distributed under the 3-clause BSD license in third_party/openblas/LICENSE.
+
+No personal or universal hotword model is included. Hotword model licensing is
+separate from the Snowboy engine and must be checked by the user.
